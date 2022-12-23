@@ -1,3 +1,3 @@
 # LinearList
 2 курс, Структуры и алгоритмы обработки данных. (Лабораторная работа. Программа "Линейный список". Язык - С++, интерфейс командной строки)
-https://cloud.mail.ru/public/2q3M/4LuwhfA9d
+https://cloud.mail.ru/public/faEE/KJqvuCK5d
